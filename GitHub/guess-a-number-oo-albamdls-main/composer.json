@@ -1,0 +1,18 @@
+{
+    "name": "albam/guess-a-number-oo-albamdls-main",
+    "description": "Ejercicio de guess a number con PHP y POO",
+    "require": {
+        "eftec/bladeone": "^4.17"
+    },
+    "autoload": {
+        "psr-4": {
+            "Albam\\GuessANumberOoAlbamdlsMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alba Mora de la Sen",
+            "email": "jalbamora@gmail.com"
+        }
+    ]
+}
